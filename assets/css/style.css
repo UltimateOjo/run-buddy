@@ -319,6 +319,10 @@ hero-form p {
   margin-bottom: 15px;
 }
 
+.trainer-bio h3 {
+  font-size: 28px;
+}
+
 .trainer-bio p {
   font-size: 17px;
 }
